@@ -1,0 +1,8 @@
+{
+  "name": "aoc2022",
+  "version": "1.0.0",
+  "description": "Solutions for 2022's Advent of Code",
+  "type": "commonjs",
+  "author": "shmup",
+  "license": "ISC"
+}
